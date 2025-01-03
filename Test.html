@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dynamic Cards with Bullet Points</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Add your CSS here -->
+  </head>
+  <body>
+    <div class="container">
+      <h1>Dynamic Cards</h1>
+      <div id="card-container" class="row"></div>
+    </div>
+
+    <script>
+      // Fetch the info.txt file and dynamically create cards
+      fetch("/assets/info.txt")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+          }
+          return response.text();
+        })
+        .then((data) => {
+          // Split the file into lines
+          const lines = data
+            .split("\n")
+            .map((line) => line.trim())
+            .filter((line) => line);
+
+          // Create an object to store the categories and their content
+          const content = {};
+
+          // Parse each line
+          lines.forEach((line) => {
+            const [key, value] = line.split("=").map((part) => part.trim());
+            content[key] = value;
+          });
+
+          // Get the 'about me' line, which contains the card titles
+          const aboutMeTitles = content["about me"]
+            .split("|")
+            .map((title) => title.trim());
+
+          // Get the card container
+          const cardContainer = document.getElementById("card-container");
+
+          // Loop through each title and create a card with content
+          aboutMeTitles.forEach((title) => {
+            const cardContent =
+              content[title.toLowerCase()] || "No content available"; // Get content for the card
+
+            // Split the content into bullet points (using `|` as the separator)
+            const bulletPoints = cardContent
+              .split("|")
+              .map((point) => point.trim());
+
+            // Card HTML structure
+            const cardHTML = `
+                        <div class="col-11">
+                            <div class="card-wrapper">
+                                <div class="top-line">
+                                    <h6 class="card-title mbr-fonts-style display-5">
+                                        <strong>
+                                            <div>
+                                                <h3>${
+                                                  title
+                                                    .charAt(0)
+                                                    .toUpperCase() +
+                                                  title.slice(1)
+                                                }</h3>
+                                            </div>
+                                        </strong>
+                                    </h6>
+                                </div>
+                                <div class="bottom-line m-4">
+                                    <ul>
+                                        ${bulletPoints
+                                          .map(
+                                            (point) =>
+                                              `<li><p class="mbr-text mbr-fonts-style display-7"><strong>${point}</strong></p></li>`
+                                          )
+                                          .join("")}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+
+            // Append the card to the container
+            cardContainer.innerHTML += cardHTML;
+          });
+        })
+        .catch((error) => {
+          console.error("Error loading the file:", error);
+        });
+    </script>
+  </body>
+</html>

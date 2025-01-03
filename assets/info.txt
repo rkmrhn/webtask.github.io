@@ -1,0 +1,32 @@
+##About Me
+
+about me=Education|Research Areas|Academic Appointments|International visits / Internships
+
+education=University Degree rahul|Online Course|Certifications
+
+research areas=Stochastic Numerical Methods for Deterministic and Stochastic Differential Equations.|Numerical Analysis of Fractional Partial Differential Equations and Singular Integral Equations.
+
+academic appointments=Award for Excellence|Published Articles|Community Contributions
+
+international visits / internships=I am passionate about technology and innovation.|I love teaching and mentoring.|I enjoy learning new things.
+
+
+
+##conferences/workshops
+
+conferences/workshops=Organized|Conferences Attended|Workshops Attended
+
+organized=2024_PHD Degree rahul|2021_University Degree rahul|2021_If you add a background
+conferences attended=2023_PHD Degree rahul|2021_University Degree rahul|2021_If you add a background
+
+workshops attended=2022_PHD Degree rahul|2021_University Degree rahul|2021_If you add a background
+
+##Publications
+
+publications=International Journal Publications|Conference Publications
+
+international journal publications=2024_PHD Degree rahul|2021_University Degree rahul|2021_If you add a background color on every other table row, you will get a nice zebra stripes effect.The table row is only as wide as the number of cells. Add a final cell when you don't have a full row and use colspan as appropriate.
+
+conference publications=2021_Award for Excellence|2222_Published Articles|3333_Community Contributions11
+
+

@@ -217,7 +217,7 @@
 
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("/assets/info.txt")
+              fetch("./assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);

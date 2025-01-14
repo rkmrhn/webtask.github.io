@@ -25,7 +25,7 @@
   color: #6c758f;
 }
 .card-title {
-  color: #36187d;
+  color: #246906;
 }
 
 .display-5 {
@@ -43,13 +43,8 @@
 }
 
 .display-7 {
-  font-size: 0.96rem;
-  font-size: calc(1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-  line-height: calc(
-    1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)))
-  );
   font-family: "Bellota Text", display;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
   word-break: break-word;
   word-wrap: break-word;
@@ -108,4 +103,56 @@
   margin-top: 10px;
   background-color: #f2f3f7; /* Set table background color */
   table-layout: fixed; /* Ensures fixed column widths */
+}
+
+.separator {
+  border-left: 3px solid #71a129;
+  height: 100%;
+  margin-left: 50%;
+}
+
+/* Ensure the image is fully responsive */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.tab-content {
+  margin: 48px;
+}
+
+@media (max-width: 768px) {
+  .tab-content {
+    margin: 1px;
+  }
+}
+
+/* Apply horizontal scrolling only on small screens */
+@media (max-width: 768px) {
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Optional: Prevent text from wrapping in table cells */
+  .table thead {
+    text-align: center;
+  }
+}
+
+/* Custom background color for active tab */
+.nav-tabs .nav-link.active {
+  background-color: #2a7908; /* Change to your desired color */
+  color: #f0f4ef; /* Adjust text color if needed */
+}
+
+/* Optional: Custom color for inactive tabs */
+.nav-tabs .nav-link {
+  background-color: #9ace84; /* Background color for inactive tabs */
+  color: #011602; /* Text color for inactive tabs */
+}
+
+/* Optional: On hover, change background of inactive tabs */
+.nav-tabs .nav-link:hover {
+  background-color: #2a7908; /* Color on hover */
 }

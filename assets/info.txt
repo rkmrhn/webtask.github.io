@@ -4,43 +4,17 @@ about me=Current Position|Postdoctoral Research Experience|Education|Teaching Ex
 
 current position=<<Assistant Professor>>, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP,India.
 
-postdoctoral research experience=Postdoc Fellow, Department of Mathematics, Shanghai University, Shanghai, China._<<Postdoc Supervisor>>: Professor Changpin 
+postdoctoral research experience=Postdoc Fellow, Department of Mathematics, Shanghai University, Shanghai, China._<<Postdoc Supervisor>>: Professor Changpin Li
 
-Li
+education=<<Ph.D. (2021)>>: Department of Mathematical Sciences, Indian Institute of Technology (BHU) Varanasi,India._<<Ph.D. Thesis Title>>: Stable Numerical Schemes and Adaptive Algorithms for Fractional Mathematical Model._<<Supervisor>>: Professor Vineet Kumar Singh,Professor, Department of Mathematical Sciences, IIT (BHU) Varanasi, India.|CSIR-JRF (Mathematical Sciences) in 2016: <<All India Rank 13>>|GATE (Mathematics) in 2016: <<All India Rank 474>>|M.Sc. <<(Gold Medal)>>: Udai Pratap Autonomous College, Varanasi, India.|B.Sc. <<(Silver Medal)>>: Udai Pratap Autonomous College, Varanasi, India.|Qualified IIT JAM.
 
-education=<<Ph.D. (2021)>>: Department of Mathematical Sciences, Indian Institute of Technology (BHU) Varanasi,India._<<Ph.D. Thesis Title>>: Stable 
-
-Numerical Schemes and Adaptive Algorithms for Fractional Mathematical Model._<<Supervisor>>: Professor Vineet Kumar Singh,Professor, Department of 
-
-Mathematical Sciences, IIT (BHU) Varanasi, India.|CSIR-JRF (Mathematical Sciences) in 2016: <<All India Rank 13>>|GATE (Mathematics) in 2016: <<All India 
-
-Rank 474>>|M.Sc. <<(Gold Medal)>>: Udai Pratap Autonomous College, Varanasi, India.|B.Sc. <<(Silver Medal)>>: Udai Pratap Autonomous College, Varanasi, 
-
-India.|Qualified IIT JAM.
-
-teaching experience=Assistant Professor in Department of Mathematics, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India 
-
-from Dec 20, 2019-Sept 09, 2023.
+teaching experience=Assistant Professor in Department of Mathematics, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India from Dec 20, 2019-Sept 09, 2023.
 
 ##Research
 
 research=Research Areas
 
-research areas=<<Numerical analysis and scientific computing for deterministic and stochastic fractional partial differential equations.>>_My research 
-
-focuses on the numerical analysis of deterministic linear and non-linear fractional partial differential equations, emphasizing the development of 
-
-computational methods to ensure accurate and efficient solutions. I am particularly interested in exploring stability, convergence, and the existence and 
-
-uniqueness of solutions, which contribute to a deeper understanding of complex dynamic systems.|<<Stochastic numerical methods.>>_My research interests 
-
-include the development and application of stochastic numerical methods for linear and non-linear fractional dynamical systems. I focus on analyzing the 
-
-convergence, stability, and accuracy of these methods to effectively capture the probabilistic nature of solutions in complex systems. By integrating 
-
-stochastic approaches, my work aims to address the challenges posed by uncertainty and variability in fractional dynamics, providing robust tools for 
-
-predicting and understanding the behavior of systems influenced by random perturbations.
+research areas=<<Numerical analysis and scientific computing for deterministic and stochastic fractional partial differential equations.>>_My research focuses on the numerical analysis of deterministic linear and non-linear fractional partial differential equations, emphasizing the development of computational methods to ensure accurate and efficient solutions. I am particularly interested in exploring stability, convergence, and the existence and uniqueness of solutions, which contribute to a deeper understanding of complex dynamic systems.|<<Stochastic numerical methods.>>_My research interests include the development and application of stochastic numerical methods for linear and non-linear fractional dynamical systems. I focus on analyzing the convergence, stability, and accuracy of these methods to effectively capture the probabilistic nature of solutions in complex systems. By integrating stochastic approaches, my work aims to address the challenges posed by uncertainty and variability in fractional dynamics, providing robust tools for predicting and understanding the behavior of systems influenced by random perturbations.
 
 academic appointments=Award for Excellence|Published Articles|Community Contributions
 
@@ -51,149 +25,31 @@ international visits / internships=I am passionate about technology and innovati
 
 publications=International Journal Publications|Conference Publications
 
-international journal publications=2024_Rahul Kumar Maurya, Dongxia Li, Anant Pratap Singh, Vineet Kumar Singh, "Numerical algorithm for a general 
-
-fractional diffusion equation," <<Mathematics and Computers in Simulation>>, vol. 223, 405-432 (2024).|2024_Vinit Kumar Tripathi, Rahul Kumar Maurya, Amit 
-
-Mahajan,Nonlinear stability analysis of thermal convection in a fluid layer with slip flow and general temperature boundary condition,<< Chaos, Solitons and 
-
-Fractals>>, vol. 187, 115426 (2024).|2024_Anant Pratap Singh, Priyanka Rajput, Rahul Kumar Maurya, Vineet Kumar Singh, High order stable numerical 
-
-algorithms for generalized time-fractional deterministic and stochastic telegraph models,<< Computational and Applied Mathematics>>, vol. 43, 401 (2024).|
-
-2024_Vinita Devi, Rahul Kumar Maurya, Vineet Kumar Singh, A stable operational matrix based computational approach for multi-term fractional wave model 
-
-arise in a dielectric medium,<< Chinese Journal of Physics>>, vol. 87, 556-577 (2024). IF: 4.6, ISSN: 0577-9073.|2023_Anant Pratap Singh, Rahul Kumar 
-
-Maurya, Vineet Kumar Singh, Analysis of a robust implicit scheme for space-time fractional stochastic non-linear diffusion wave model,<< International 
-
-Journal of Computer Mathematics>>, vol. 100, 1625-1645 (2023), IF: 1.7, ISSN: 0020-7160.|2022_Rahul Kumar Maurya, Vineet Kumar Singh, A high order adaptive 
-
-algorithm for fractional diffusion wave equation on non-uniform meshes,<< Numerical Algorithm>>, vol 92, 1905-1950 (2022).|2021_Rahul Kumar Maurya, Vinita 
-
-Devi, Vineet Kumar Singh, Stability and convergence of multistep schemes for 1D and 2D fractional model with nonlinear source term,<< Applied Mathematical 
-
-Modelling>>, vol. 89, 1721-1746 (2021).|2020_Rahul Kumar Maurya, Vinita Devi, Vineet Kumar Singh, Multistep schemes for one and two dimensional 
-
-electromagnetic wave models based on fractional derivative approximation,<< Journal of Computational and Applied Mathematics>>, vol. 380, 112985 (2020).|
-
-2020_Rahul Kumar Maurya, Vinita Devi, Nikhil Srivastava, Vineet Kumar Singh, An efficient and stable Lagrangian matrix approach to Abel integral and 
-
-integro-differential equations,<< Applied Mathematics and Computation>>, vol.374, 125005 (2020).|2020_Vinita Devi, Rahul Kumar Maurya, Somveer Singh, Vineet 
-
-Kumar Singh, Lagranges operational approach for the approximate solution of two-dimensional hyperbolic telegraph equation subject to Dirichlet boundary 
-
-conditions,<<Applied Mathematics and Computation>>, vol. 367, 124717 (2020).|2019_Vinita Devi, Rahul Kumar Maurya,Vijay Kumar Patel, Vineet Kumar Singh, 
-
-Lagrange operational matrix methods to Lane Emden, Riccatis and Bessels equations,<< International Journal of Applied and Computational Mathematics>>,vol. 5 
-
-(03), 1-30 (2019). 
+international journal publications=2024_Rahul Kumar Maurya, Dongxia Li, Anant Pratap Singh, Vineet Kumar Singh, "Numerical algorithm for a general fractional diffusion equation," <<Mathematics and Computers in Simulation>>, vol. 223, 405-432 (2024).|2024_Vinit Kumar Tripathi, Rahul Kumar Maurya, Amit Mahajan,Nonlinear stability analysis of thermal convection in a fluid layer with slip flow and general temperature boundary condition,<< Chaos, Solitons and Fractals>>, vol. 187, 115426 (2024).|2024_Anant Pratap Singh, Priyanka Rajput, Rahul Kumar Maurya, Vineet Kumar Singh, High order stable numerical algorithms for generalized time-fractional deterministic and stochastic telegraph models,<< Computational and Applied Mathematics>>, vol. 43, 401 (2024).|2024_Vinita Devi, Rahul Kumar Maurya, Vineet Kumar Singh, A stable operational matrix based computational approach for multi-term fractional wave model arise in a dielectric medium,<< Chinese Journal of Physics>>, vol. 87, 556-577 (2024). IF: 4.6, ISSN: 0577-9073.|2023_Anant Pratap Singh, Rahul Kumar Maurya, Vineet Kumar Singh, Analysis of a robust implicit scheme for space-time fractional stochastic non-linear diffusion wave model,<< International Journal of Computer Mathematics>>, vol. 100, 1625-1645 (2023), IF: 1.7, ISSN: 0020-7160.|2022_Rahul Kumar Maurya, Vineet Kumar Singh, A high order adaptive algorithm for fractional diffusion wave equation on non-uniform meshes,<< Numerical Algorithm>>, vol 92, 1905-1950 (2022).|2021_Rahul Kumar Maurya, Vinita Devi, Vineet Kumar Singh, Stability and convergence of multistep schemes for 1D and 2D fractional model with nonlinear source term,<< Applied Mathematical Modelling>>, vol. 89, 1721-1746 (2021).|2020_Rahul Kumar Maurya, Vinita Devi, Vineet Kumar Singh, Multistep schemes for one and two dimensional electromagnetic wave models based on fractional derivative approximation,<< Journal of Computational and Applied Mathematics>>, vol. 380, 112985 (2020).|2020_Rahul Kumar Maurya, Vinita Devi, Nikhil Srivastava, Vineet Kumar Singh, An efficient and stable Lagrangian matrix approach to Abel integral and integro-differential equations,<< Applied Mathematics and Computation>>, vol.374, 125005 (2020).|2020_Vinita Devi, Rahul Kumar Maurya, Somveer Singh, Vineet Kumar Singh, Lagranges operational approach for the approximate solution of two-dimensional hyperbolic telegraph equation subject to Dirichlet boundary conditions,<<Applied Mathematics and Computation>>, vol. 367, 124717 (2020).|2019_Vinita Devi, Rahul Kumar Maurya,Vijay Kumar Patel, Vineet Kumar Singh, Lagrange operational matrix methods to Lane Emden, Riccatis and Bessels equations,<< International Journal of Applied and Computational Mathematics>>,vol. 5 (03), 1-30 (2019). 
 
 
-conference publications=2019_Rahul Kumar Maurya, Vinita Devi, Vineet Kumar Singh, Lagrangian computational matrix approach to generalized Abel's integral 
-
-equation based on Gauss-Legendre roots,<< Jour of Adv Research in Dynamical & Control Systems>>, vol. 11, 1717-1722 (2019). 
+conference publications=2019_Rahul Kumar Maurya, Vinita Devi, Vineet Kumar Singh, Lagrangian computational matrix approach to generalized Abel's integral equation based on Gauss-Legendre roots,<< Jour of Adv Research in Dynamical & Control Systems>>, vol. 11, 1717-1722 (2019). 
 
 ##activities
 
 activities=Workshop Orgainized|Invited Talk|Research Presentations|Workshop Attended|Orientation/Refresher Course/Faculty Development Programs
 
-workshop orgainized=<<(2022)>> Organized one-week international workshop on "Numerical Analysis of Ordinary & Fractional Partial Differential Equations" at 
+workshop orgainized=<<(2022)>> Organized one-week international workshop on "Numerical Analysis of Ordinary & Fractional Partial Differential Equations" at Govt. Tilak PG College, Katni, MP, India, December 27-31, 2022.
 
-Govt. Tilak PG College, Katni, MP, India, December 27-31, 2022.
+invited talk=<<(2022)>> Bosen Academic Research Institute, Shanghai, China: "2022 International Conference on Applied Mathematics, Informatics, and Computing Sciences (AMICS 2022)" invited by Ms. Annie Zhu Conference Secretary of AMICS 2022 to deliver a lecture in the international conference on December 05-07, 2022.|<<(2022)>> Department of Mathematics, Govt. MGM PG College, Itarsi, MP, India: "Fractional Calculus and Computational Intelligence" invited by Dr. Prashant Pandey to speak in the international workshop on January 06-07, 2022.
 
-invited talk=<<(2022)>> Bosen Academic Research Institute, Shanghai, China: "2022 International Conference on Applied Mathematics, Informatics, and 
+research presentations=<<(2022)>> Presented a paper entitled "Efficient and stable numerical schemes for multi-term non-linear fractional diffusion wave model'' at the international conference on "Computational Methods in Science & Engineering (CMSE-2022)" organized by Dept. of Mathematics, BITS-Pilani, Hyderabad Campus, India, April 22-24, 2022.|<<(2021)>> Presented a paper entitled "Robust stable scheme for multi-term non-linear fractional diffusion wave model" at the international conference on "27th International Conference of the International Academy of Physical Sciences (CONIAPS XXVII) on Mathematical Analysis and its Applications" organized by Dept. of Mathematics, Central University of Kerala, India, October 26-28, 2021.|<<(2020)>> Presented a paper entitled "Numerical simulation of 1D and 2D multi-term fractional wave model with non-linear source term" at the international conference on "Advances in Differential Equations and Numerical Analysis ADENA (2020)" organized by the Department of Mathematics, IIT, Guwahati, India, October 12-15, 2020.|<<(2019)>> Participated and presented a work entitled "Numerical solution for non-linear fractional electromagnetic wave models" at the Indo-German Conference on Computational Mathematics (IGCM-2019) held in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bangalore, India, December 2-4, 2019.|<<(2019)>> Presented a paper entitled "Stable numerical schemes for two-dimensional quasi-linear fractional waves model" at the international conference on "2nd International Conference on Mathematical Modelling in Applied Sciences, ICMMAS' 19" organized by Belgorod State University, Belgorod, Russia, August 20-24, 2019.|<<(2019)>> Presented a paper entitled "Computational matrix approach to generalized Abel's integral equation based on Gauss-Legendre roots" at the international conference on "Computational Methods, Simulation and Optimization" organized by Asian Institute of Technology, Bangkok, Thailand, January 08-10, 2019.|<<(2018)>> Participated and presented a work entitled "Adaptive Lagrangian approach to generalized Abel's integral equation" at the international conference on "Engineering, Computers & Natural Sciences" held in the Panjim Goa, India, October 19-21, 2018.|<<(2018)>> Participated and presented a work entitled "Adaptive Lagrangian approach for non-linear weakly singular partial-integro differential equation" at the international conference on "International Workshop on Analysis and PDE" organized by Leibniz University Hannover, Germany, October 8-10, 2018.
 
-Computing Sciences (AMICS 2022)" invited by Ms. Annie Zhu Conference Secretary of AMICS 2022 to deliver a lecture in the international conference on 
-
-December 05-07, 2022.|<<(2022)>> Department of Mathematics, Govt. MGM PG College, Itarsi, MP, India: "Fractional Calculus and Computational Intelligence" 
-
-invited by Dr. Prashant Pandey to speak in the international workshop on January 06-07, 2022.
-
-research presentations=<<(2022)>> Presented a paper entitled "Efficient and stable numerical schemes for multi-term non-linear fractional diffusion wave 
-
-model'' at the international conference on "Computational Methods in Science & Engineering (CMSE-2022)" organized by Dept. of Mathematics, BITS-Pilani, 
-
-Hyderabad Campus, India, April 22-24, 2022.|<<(2021)>> Presented a paper entitled "Robust stable scheme for multi-term non-linear fractional diffusion wave 
-
-model" at the international conference on "27th International Conference of the International Academy of Physical Sciences (CONIAPS XXVII) on Mathematical 
-
-Analysis and its Applications" organized by Dept. of Mathematics, Central University of Kerala, India, October 26-28, 2021.|<<(2020)>> Presented a paper 
-
-entitled "Numerical simulation of 1D and 2D multi-term fractional wave model with non-linear source term" at the international conference on "Advances in 
-
-Differential Equations and Numerical Analysis ADENA (2020)" organized by the Department of Mathematics, IIT, Guwahati, India, October 12-15, 2020.|<<
-
-(2019)>> Participated and presented a work entitled "Numerical solution for non-linear fractional electromagnetic wave models" at the Indo-German Conference 
-
-on Computational Mathematics (IGCM-2019) held in the Department of Computational and Data Sciences, Indian Institute of Science (IISc), Bangalore, India, 
-
-December 2-4, 2019.|<<(2019)>> Presented a paper entitled "Stable numerical schemes for two-dimensional quasi-linear fractional waves model" at the 
-
-international conference on "2nd International Conference on Mathematical Modelling in Applied Sciences, ICMMAS' 19" organized by Belgorod State University, 
-
-Belgorod, Russia, August 20-24, 2019.|<<(2019)>> Presented a paper entitled "Computational matrix approach to generalized Abel's integral equation based on 
-
-Gauss-Legendre roots" at the international conference on "Computational Methods, Simulation and Optimization" organized by Asian Institute of Technology, 
-
-Bangkok, Thailand, January 08-10, 2019.|<<(2018)>> Participated and presented a work entitled "Adaptive Lagrangian approach to generalized Abel's integral 
-
-equation" at the international conference on "Engineering, Computers & Natural Sciences" held in the Panjim Goa, India, October 19-21, 2018.|<<(2018)>> 
-
-Participated and presented a work entitled "Adaptive Lagrangian approach for non-linear weakly singular partial-integro differential equation" at the 
-
-international conference on "International Workshop on Analysis and PDE" organized by Leibniz University Hannover, Germany, October 8-10, 2018.
-
-workshop attended=<<(2018)>> Certificate awarded to participate in Continuing Education Program (CEP) short-term course on "Computational Methods for 
-
-Integral and Differential Equations"  organized by IIT (BHU) Varanasi, India, December 10-16, 2018.|<<(2018)>> Certificate awarded to participate in the 
-
-training programme on "Tools for Scientific Documentation: LaTeX, JabRef, DocEar and other Open Source Software"  organized by DST-Centre for 
-
-Interdisciplinary Mathematical Sciences, Banaras Hindu University, India, February 05-16, 2018.|<<(2018)>> Certificate awarded to participate in Global 
-
-Initiative for Academic Networks (GIAN) workshop entitled "Fractional Derivative and its Applications" organized by IIT (BHU) Varanasi, India, January 30-
-
-February 03, 2018.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled "Wavelets and its Applications in Signal Processing" organized 
-
-by IIT (BHU) Varanasi, India, December 21-25, 2017.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled "Isogeometric Methods using 
-
-B-Splines and NURBS" organized by IIT (BHU) Varanasi, India, December 16-20, 2017.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled 
-
-Theory and Computation of Singularly Perturbed Differential Equations" organized by IIT (BHU) Varanasi, India, December 04-08, 2017.|<<(2017)>> Certificate 
-
-awarded to participate in the workshop on "Numerical Techniques for Partial Differential Equations" organized by Dept. of Mathematics, Visvesvaraya National 
-
-Institute of Technology, Nagpur, India, July 10-14, 2017.|<<(2017)>> Certificate awarded to participate in the workshop on "Partial Differential Equations 
-
-and Applications" organized by Central University of Tamil Nadu, India, May 29-June 11, 2017.|<<(2016)>> Certificate awarded to participate in the workshop 
-
-on "Annual Foundation School-I" organized through National Center for Mathematics (TIFR) held at Harish Chandra Research Institute, Allahabad, India, 
-
-December 05-31, 2016.
+workshop attended=<<(2018)>> Certificate awarded to participate in Continuing Education Program (CEP) short-term course on "Computational Methods for Integral and Differential Equations"  organized by IIT (BHU) Varanasi, India, December 10-16, 2018.|<<(2018)>> Certificate awarded to participate in the training programme on "Tools for Scientific Documentation: LaTeX, JabRef, DocEar and other Open Source Software"  organized by DST-Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu University, India, February 05-16, 2018.|<<(2018)>> Certificate awarded to participate in Global Initiative for Academic Networks (GIAN) workshop entitled "Fractional Derivative and its Applications" organized by IIT (BHU) Varanasi, India, January 30-February 03, 2018.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled "Wavelets and its Applications in Signal Processing" organized by IIT (BHU) Varanasi, India, December 21-25, 2017.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled "Isogeometric Methods using B-Splines and NURBS" organized by IIT (BHU) Varanasi, India, December 16-20, 2017.|<<(2017)>> Certificate awarded to participate in (GIAN) workshop entitled Theory and Computation of Singularly Perturbed Differential Equations" organized by IIT (BHU) Varanasi, India, December 04-08, 2017.|<<(2017)>> Certificate awarded to participate in the workshop on "Numerical Techniques for Partial Differential Equations" organized by Dept. of Mathematics, Visvesvaraya National Institute of Technology, Nagpur, India, July 10-14, 2017.|<<(2017)>> Certificate awarded to participate in the workshop on "Partial Differential Equations and Applications" organized by Central University of Tamil Nadu, India, May 29-June 11, 2017.|<<(2016)>> Certificate awarded to participate in the workshop on "Annual Foundation School-I" organized through National Center for Mathematics (TIFR) held at Harish Chandra Research Institute, Allahabad, India, December 05-31, 2016.
 
 
-orientation/refresher course/faculty development programs=<<(2023)>> Certificate awarded to participate in two weeks Refresher Course organized by 
-
-University of Lucknow, Lucknow, India, January 10-23, 2023.|<<(2021)>> Certificate awarded to participate in one-month Faculty Induction Program organized 
-
-by Aligarh Muslim University, Aligarh, India, Sept 07-Oct 12, 2021.|<<(2021)>> Certificate awarded to participate in five days Faculty Development Program 
-
-on "Best Practices in Development of E-Content" organized by Department of Higher Education, Govt. of M.P., India, July 12-17, 2021.|<<(2020)>> Certificate 
-
-awarded to participate in five days Faculty Development Program on "Departmental Introductory Training Program" organized by RCVP, Naronha, Bhopal, Madhya 
-
-Pradesh, India, February 17-22, 2020.
+orientation/refresher course/faculty development programs=<<(2023)>> Certificate awarded to participate in two weeks Refresher Course organized by University of Lucknow, Lucknow, India, January 10-23, 2023.|<<(2021)>> Certificate awarded to participate in one-month Faculty Induction Program organized by Aligarh Muslim University, Aligarh, India, Sept 07-Oct 12, 2021.|<<(2021)>> Certificate awarded to participate in five days Faculty Development Program on "Best Practices in Development of E-Content" organized by Department of Higher Education, Govt. of M.P., India, July 12-17, 2021.|<<(2020)>> Certificate awarded to participate in five days Faculty Development Program on "Departmental Introductory Training Program" organized by RCVP, Naronha, Bhopal, Madhya Pradesh, India, February 17-22, 2020.
 
 ##Teaching
 
 teaching=Courses Taught at Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India
 
-courses taught at prime minister college of excellence, government tilak pg college, katni, mp, india=<<(Master Level): >> Advanced Numerical Analysis, 
-
-Advanced Abstract Algebra, Topology, Wavelets, Functional Analysis, Measure & Integration, Operation Research.|<<(Bachelor Level): >>Linear Algebra, 
-
-Advanced Calculus, Numerical Analysis, Complex Analysis, Vector Analysis. 
+courses taught at prime minister college of excellence, government tilak pg college, katni, mp, india=<<(Master Level): >> Advanced Numerical Analysis, Advanced Abstract Algebra, Topology, Wavelets, Functional Analysis, Measure & Integration, Operation Research.|<<(Bachelor Level): >>Linear Algebra, Advanced Calculus, Numerical Analysis, Complex Analysis, Vector Analysis. 
 
 ##Supervision
 
@@ -211,20 +67,14 @@ Sponsored Project=NA_NA_NA_NA_NA|NA_NA_NA_NA_NA
 
 administration=Served As
 
-served as=<<Head, Department of Mathematics>>, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India, Dec 27, 2019-Sept 08, 
-
-2023.|<<Head, Department of Computer Science>>, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India, Nov 10, 2021- Sept 08, 
-
-2023.
+served as=<<Head, Department of Mathematics>>, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India, Dec 27, 2019-Sept 08, 2023.|<<Head, Department of Computer Science>>, Prime Minister College of Excellence, Government Tilak PG College, Katni, MP, India, Nov 10, 2021- Sept 08, 2023.
 
 ##Opportunities
 
 opportunities=Current Openings|Ph.D. Positions
 
 current openings=No openings
-ph.d. positions=Prospective Ph.D. students in my research group must have sound knowledge of Mathematics  (especially in Numerical Analysis, Partial 
-
-Differential Equations, and Analysis) and excellent programming skills (MATLAB, Mathematica, and Python).
+ph.d. positions=Prospective Ph.D. students in my research group must have sound knowledge of Mathematics  (especially in Numerical Analysis, Partial Differential Equations, and Analysis) and excellent programming skills (MATLAB, Mathematica, and Python).
 
 
 

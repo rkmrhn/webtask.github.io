@@ -118,7 +118,7 @@
 }
 
 .tab-content {
-  margin: 48px;
+  margin: px;
 }
 
 @media (max-width: 768px) {
@@ -155,4 +155,19 @@
 /* Optional: On hover, change background of inactive tabs */
 .nav-tabs .nav-link:hover {
   background-color: #2a7908; /* Color on hover */
+}
+
+.responsive-image {
+  border-radius: 8px;
+  width: 100%; /* Ensures the image width matches the parent div */
+  height: 100%; /* Ensures the image height matches the parent div */
+  object-fit: cover; /* Adjusts how the image fits within its container */
+}
+
+/* Media query for small screens (mobile devices) */
+@media (max-width: 767px) {
+  .image-card {
+    flex: 1 1 100%; /* Makes each card take 100% of the width */
+    max-width: 100%; /* Ensures the card takes full width */
+  }
 }

@@ -1,3 +1,5 @@
+gallery_Image_count=8
+
 ##About Me
 
 about me=Current Position|Postdoctoral Research Experience|Education|Teaching Experience

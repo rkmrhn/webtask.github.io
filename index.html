@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
 
-    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="../css/style.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
@@ -33,7 +33,9 @@
         style="background-color: #2a7908"
       >
         <div class="container-fluid text-white">
-          <a class="navbar-brand text-white" href="webtask.github.io/index.html"
+          <a
+            class="navbar-brand text-white"
+            href="http://localhost:5500/src/index.html"
             ><i class="fa-solid fa-house"></i> &nbsp; Dr. Rahul Kumar Maurya</a
           >
           <button
@@ -53,17 +55,21 @@
                 <a
                   class="nav-link active text-white"
                   aria-current="page"
-                  href="webtask.github.io/index.html"
+                  href="http://localhost:5500/src/index.html"
                   >Home</a
                 >
               </li>
               <li class="nav-item">
-                <a class="nav-link text-white" href="#">Notes</a>
+                <a
+                  class="nav-link text-white"
+                  href="http://localhost:5500/src/Student.html"
+                  >Student</a
+                >
               </li>
               <li class="nav-item">
                 <a
                   class="nav-link text-white"
-                  href="webtask.github.io/Gallery.html"
+                  href="http://localhost:5500/src/Gallery.html#"
                   >Gallery</a
                 >
               </li>
@@ -83,9 +89,9 @@
         <!-- First Segment: Image (Best Fitted) -->
         <div class="col-sm-12 col-md-4 text-center align-self-center">
           <img
-            src="./assets/image0.jpeg"
-            class="img-fluid m-4"
-            style="border-radius: 8px; object-fit: cover"
+            src="/assets/dp.jpeg"
+            class="img-fluid"
+            style="border-radius: 8px; object-fit: contain"
           />
         </div>
 
@@ -95,7 +101,7 @@
         </div>
 
         <!-- Third Segment: Content -->
-        <div class="col-sm-12 col-md-5">
+        <div class="col-sm-12 col-md-6">
           <div class="mt-4">
             <h5><strong>Dr. Rahul Kumar Maurya</strong></h5>
             <h5>Assistant Professor</h5>
@@ -107,7 +113,7 @@
             <p>Email:-</p>
             <p>Area of Interest:-</p>
           </div>
-           <div class="mt-5">
+          <div class="mt-5">
             <a href="" class="me-4 text-reset text-decoration-none">
               <i
                 class="fa-brands fa-facebook fa-2xl"
@@ -273,7 +279,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -382,7 +388,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -492,7 +498,7 @@
 
             <script>
               // Fetch the info.txt file and dynamically create tables
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -614,7 +620,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create tables
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -732,7 +738,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -840,7 +846,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -968,7 +974,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -1076,7 +1082,7 @@
             </div>
             <script>
               // Fetch the info.txt file and dynamically create cards
-              fetch("./assets/info.txt")
+              fetch("/assets/info.txt")
                 .then((response) => {
                   if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
@@ -1173,7 +1179,7 @@
       </div>
     </main>
     <!-- Footer -->
-    <footer class="text-center text-lg-start bg-body-tertiary text-muted">
+    <footer class="text-center text-lg-start bg-body-tertiary">
       <!-- Section: Social media -->
       <section
         class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom text-white"
@@ -1219,7 +1225,7 @@
             <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-3">
               <!-- Content -->
               <h6 class="text-uppercase fw-bold mb-3">
-                <i class="fas fa-gem me-3"></i>Dr. Rahul Kumar Maurya
+                <i class="fas fa-gem me-3 fa-flip"></i>Dr. Rahul Kumar Maurya
               </h6>
               <p>
                 Prime Minister College of Excellence, Government Tilak PG
@@ -1233,7 +1239,7 @@
               <div class="text-center">
                 <img
                   style="height: 120px; width: 130px"
-                  src="./assets/collegeLogo.png"
+                  src="/assets/collegeLogo.png"
                   alt=""
                 />
               </div>
@@ -1245,8 +1251,8 @@
               <!-- Links -->
               <h6 class="text-uppercase fw-bold mb-3">Contact</h6>
               <p>
-                <i class="fas fa-home me-3"></i> Dept. of Mathematics, Govt.
-                Tilak PG College Katni M.P, INDIA
+                <i class="fas fa-home me-3 fa-beat"></i> Dept. of Mathematics,
+                Govt. Tilak PG College Katni M.P, INDIA
               </p>
               <p>
                 <i class="fa-solid fa-envelope fa-beat-fade"></i>
@@ -1261,11 +1267,9 @@
       </section>
       <!-- Section: Links  -->
 
-      <!-- Copyright -->
       <div class="text-center p-4" style="background-color: #87bc87">
-        *Switch to desktop view for best experience.*
+        <marquee>Switch to desktop view for best experience.</marquee>
       </div>
-      <!-- Copyright -->
     </footer>
     <!-- Footer -->
 
